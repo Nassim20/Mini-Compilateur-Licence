@@ -1,0 +1,31 @@
+import ISIL.io;
+import ISIL.lang;
+private class $ISILA {
+
+##commen 
+taire##
+
+##comment##
+
+Entier $a1,$a2,$a3;
+Reel $t,$j;
+Chaine $ch1;
+Entier $a,$b,$i;
+CONST Reel $h;
+Entier @Tabl[5];
+          main() 
+          {
+              $a1:=8-5;
+              $a1 := 1-2; 
+              for($i:=1;$i<2;$i++)
+              {
+                $a1:=8;
+                $a2:=50-90;
+                $a3:=80/4;
+
+                $t:=5.9+9.6;
+                $j:=$t+5.0;
+
+              }
+          }
+} 
